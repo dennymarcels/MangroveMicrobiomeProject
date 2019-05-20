@@ -1,0 +1,24 @@
+sample	name	mg name	biome	salinity status	matrix type	salinity	mangrove split	sequencing method	stable organization	mangrove vs sea
+4533708.3	est1	PK18_lane5_index19_GTGAAA_002.fastq	estuarine	saline	water	NA	NA	NA	saline water	NA
+4533709.3	est2	PK18_lane4_index19_GTGAAA_002.fastq	estuarine	saline	water	NA	NA	NA	saline water	NA
+4533720.3	est3	PK13_lane5_index22_CGTACG_002.fastq	estuarine	saline	water	NA	NA	NA	saline water	NA
+4533721.3	est4	PK13_lane4_index22_CGTACG_002.fastq	estuarine	saline	water	NA	NA	NA	saline water	NA
+4535556.3	trop1	Forest_A1_2_split_4	tropical_forest	non-saline	soil/sediment	NA	NA	NA	non-saline soil	NA
+4536145.3	trop2	Forest_A1_2_split_2	tropical_forest	non-saline	soil/sediment	NA	NA	NA	non-saline soil	NA
+4536146.3	trop3	Forest_A1_2_split_3	tropical_forest	non-saline	soil/sediment	NA	NA	NA	non-saline soil	NA
+4600900.3	temp1	Ah-1-1.fastq	temperate_forest	non-saline	soil/sediment	NA	NA	NA	non-saline soil	NA
+4600904.3	temp2	II-P-1-1.fastq	temperate_forest	non-saline	soil/sediment	NA	NA	NA	non-saline soil	NA
+4600906.3	temp3	II-P-2-1.fastq	temperate_forest	non-saline	soil/sediment	NA	NA	NA	non-saline soil	NA
+4612993.3	sea1	21D	sea	saline	soil/sediment	NA	NA	NA	saline sediment	sea
+4612994.3	sea2	23D	sea	saline	soil/sediment	NA	NA	NA	saline sediment	sea
+4612995.3	sea3	25D	sea	saline	soil/sediment	NA	NA	NA	saline sediment	sea
+4718674.3	mangH1	VAN1_S3_L001_R1_001	mangrove	saline	soil/sediment	H	1	WGS	saline sediment	mangrove
+4718675.3	mangH2	VAN3_S4_L001_R1_001	mangrove	saline	soil/sediment	H	2	WGS	saline sediment	mangrove
+4718684.3	mangL1	VBN3_S2_L001_R1_001	mangrove	saline	soil/sediment	L	1	WGS	saline sediment	mangrove
+4718686.3	mangL2	VBN1_S1_L001_R1_001	mangrove	saline	soil/sediment	L	1	WGS	saline sediment	mangrove
+H1N	mangH1_16S	NA	NA	NA	NA	NA	NA	16S	NA	NA
+H2N	mangH2_16S	NA	NA	NA	NA	NA	NA	16S	NA	NA
+H3N	mangH3_16S	NA	NA	NA	NA	NA	NA	16S	NA	NA
+L1N	mangL1_16S	NA	NA	NA	NA	NA	NA	16S	NA	NA
+L2N	mangL2_16S	NA	NA	NA	NA	NA	NA	16S	NA	NA
+L3N	mangL3_16S	NA	NA	NA	NA	NA	NA	16S	NA	NA
