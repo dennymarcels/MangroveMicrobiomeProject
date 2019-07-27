@@ -1,5 +1,5 @@
 # MangroveMicrobiomeProject
-This repository contains the code run in the publication \[\[to be announced - in revision process\]\].
+This repository contains the code run in the publication [*Metataxonomic and metagenomic analysis of mangrove microbiomes reveals community patterns driven by salinity and pH gradients in Paranaguá Bay, Brazil*](https://doi.org/10.1016/j.scitotenv.2019.133609).
 
 The publication deals with microbial community structures present in a mangrove in Paranaguá Bay, Southern Brazil. We unravel the most common community structures present, then establish the environmental factors that correlate with such structures, and later compare them with community from other biomes such as sea sediment, estuarine water and forest soils.
 
